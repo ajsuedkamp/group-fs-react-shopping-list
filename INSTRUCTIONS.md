@@ -11,6 +11,15 @@ Isn't it just the worst when you come back from grocery shopping only to realize
 
 ## Requirements
 
+-[x] Create database in Postico
+-[] Create form for new items (name, quantity, unity)
+-[] GET to append the table of shopping items
+-[] DELETE function
+-[] PUT to udate once purchased
+-[] ORDER BY 
+-[] PUT to reset all items
+-[] Delete to remove ALL items from list and database
+
 We want to store a list of items to buy in a database, so we can build up our list over a period of time and then go shopping. 
 
 There should be a form at the top of the page where we can add new items to the list.
